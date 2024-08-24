@@ -245,7 +245,7 @@ de audiencia.</b></td>
         <p><b>TB2:</b></p>
         <p>.</p>
         <p><b>TF:</b></p>
-        <p>.</p>
+        <p>..</p>
         <p><b>Roque Tello, Jack Eddie</b></p>
        <p><b>TB1:</b></p>
         <p>.</p>
